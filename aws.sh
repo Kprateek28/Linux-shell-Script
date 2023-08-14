@@ -31,3 +31,8 @@ echo "Print list of IAM Users"
 aws iam list-users
 
 
+# to update the os
+yum update -y
+yum install -y httpd
+
+
