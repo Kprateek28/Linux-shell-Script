@@ -4,7 +4,7 @@
 #$ Thu Aug 17 11:32:55 IST 2023
 
 #Variables
-PATH = /mnt/c/Users/kumar/Desktop/linux
+PATH = "          "
 DAYS = 5
 DEPTH = 1
 RUN = 0
